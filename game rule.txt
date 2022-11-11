@@ -1,0 +1,18 @@
+This simlified bomberman game is a 2-player battle game. 
+You just need to tap the keyboard to move. 
+Player 1 use up,down,left,right to move and enter key to settle the bomb. 
+Player 2 use WASD to move and space key to settle the bomb. 
+On the map, 
+'=' : unbreakable walls, 
+'@': unbreakable walls that can be broken by the bombs. 
+
+By breaking the breakable walls, there may be some random properties showing on the position where the breakable walls break.
+ 'a' : additional 1 bomb; 
+'b' : increase the power level of the bomb; 
+'c': fasten the explosion by 150 ms(fastest 500ms); 
+'d': increase health points. 
+
+The available bombs are the total number one player could have, once the player set one, it will decrease by one, but after the bomb explodes,
+ it will automatically plus 1 to recover the bombs. The game will end when one of the player's health points below 0, so just enjoy! 
+
+(tips: the bombs set by yourself will hurt also hurt you, so run away after setting the bombs!!) 
