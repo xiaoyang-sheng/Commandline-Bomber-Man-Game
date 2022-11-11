@@ -1,12 +1,12 @@
 # VG101_2020SU_term project Brief Report
 # Commandline Bomber Man Game 
 ## Group Introduction
-Yibo Wu  
-Email: jacky1319@sjtu.edu.cn  
 Xiaoyang Sheng  
 Email: sheng6188@sjtu.edu.cn  
 Zeyu Yang  
 Email: yangzeyu1026@sjtu.edu.cn  
+Yibo Wu  
+Email: jacky1319@sjtu.edu.cn  
 ## Project Introduction
 ### Name: Simplified Bomberman  
 #### Intended language: C/C++  
